@@ -1,0 +1,21 @@
+# --- System Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDEs & Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Data & Logs ---
+*.log
+data_raw/
+temp/
+
+# --- Python (om vi använder det för beräkningar senare) ---
+__pycache__/
+*.pyc
+.venv/
+env/
