@@ -1,14 +1,18 @@
 # the-storage-hierarchy
 From Bits to Exabytes: Visualizing the scale, geography, and technology of modern cloud infrastructure.
-# The Storage Hierarchy 🌐
-*From Bits to Exabytes: Mapping the Modern Cloud*
+The Storage Hierarchy 🌍
+From Bits to Exabytes: Visualizing the scale, geography, and technology of modern cloud infrastructure.
 
-Välkommen! Har du någonsin undrat hur dina 5 TB på Google Drive faktiskt ser ut i den fysiska världen? Det här projektet är en resa från den minsta beståndsdelen (biten) till de gigantiska datacenter-städerna som driver vår planet.
+Ever wondered where your "5 TB Google Drive" actually lives? To us, it's just a number on a screen. To the world, it's a physical footprint of silicon, spinning disks, and deep-sea cables.
 
-### 🗺 Vad vi kartlägger:
-- **Skalan:** Hur mycket är egentligen en Exabyte? (Spoiler: Det är jättemycket).
-- **Tekniken:** Hur hänger en SSD i din laptop ihop med ett server-rack i Luleå?
-- **Geografin:** Var bor molnet? Vi visualiserar var de stora noderna finns.
+This project maps the journey from a single bit to the Exabyte-scale fortresses that power the modern web.
 
-### 🚀 Varför?
-För att molnet inte är "magi" – det är sladdar, ström och miljarder små magnetiska punkter.
+📍 The Journey
+The Micro: How bits become files on your local NVMe.
+
+The Bridge: How your 5 TB "slice" is distributed across server racks.
+
+The Macro: Mapping the physical mega-datacenters (Google, AWS, Azure) across the globe.
+
+💡 Why this exists?
+Because "The Cloud" isn't magic. It's geography, physics, and an incredible feat of engineering. We're here to make that scale visible.
